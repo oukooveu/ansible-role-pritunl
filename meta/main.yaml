@@ -1,0 +1,19 @@
+---
+dependencies: []
+galaxy_info:
+  role_name: pritunl
+  author: oukooveu
+  description: pritunl server setup
+  license: Apache 2.0
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+    - name: Ubuntu
+      versions:
+        - xenial
+  galaxy_tags:
+    - vpn
+    - openvpn
+    - pritunl
